@@ -1,1 +1,1 @@
-My first readme
+MY personal friend
